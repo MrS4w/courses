@@ -4,7 +4,9 @@
 ## Content:
 
 #### :file_folder: [Alura](https://github.com/MrS4w/courses/tree/master/Alura)
-* :open_file_folder: [Bootstrap: Boas práticas no Front-End](https://github.com/MrS4w/courses/tree/master/Alura/Curso%20Bootstrap)
+* :open_file_folder: [Bootstrap - Boas práticas no Front-End](https://github.com/MrS4w/courses/tree/master/Alura/Curso%20Bootstrap)
+* :open_file_folder: [Java - Dominando as Collections](https://github.com/MrS4w/courses/tree/master/Alura/Curso%20Java%20Collections)
+* :open_file_folder: [JavaScript Avançado - ES6, orientação a objetos e padrões de projeto](https://github.com/MrS4w/courses/tree/master/Alura/Curso%20ES6)
 
 #### :file_folder: [Rocketseat](https://github.com/MrS4w/courses/tree/master/Rocketseat): 
 * :open_file_folder: [Semana Omnistack](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack)
