@@ -1,7 +1,10 @@
 # Courses :books: :nerd_face: :man_technologist:
-### Currently I have some repositories with courses exercises, as I usually do many online courses I decided to put everything organized in a single repository.
+### As I usually do many online courses I decided to put everything organized in a single repository.
 
 ## Content:
+
+#### :file_folder: [Alura](https://github.com/MrS4w/courses/tree/master/Alura)
+* :open_file_folder: [Bootstrap: Boas práticas no Front-End](https://github.com/MrS4w/courses/tree/master/Alura/Curso%20Bootstrap)
 
 #### :file_folder: [Rocketseat](https://github.com/MrS4w/courses/tree/master/Rocketseat): 
 * :open_file_folder: [Semana Omnistack](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack)
