@@ -20,6 +20,3 @@
 #### :file_folder: [YouTube](https://github.com/MrS4w/courses/tree/master/YouTube)
 * :open_file_folder: [Curso em Vídeo](https://github.com/MrS4w/courses/tree/master/YouTube/Curso%20em%20V%C3%ADdeo)
   * :open_file_folder: [Curso de Python 3](https://github.com/MrS4w/courses/tree/master/YouTube/Curso%20em%20V%C3%ADdeo/Curso%20de%20Python%203)
-
-* :open_file_folder: [EuProgramador](https://github.com/MrS4w/courses/tree/master/YouTube/EuProgramador)
-  * :open_file_folder: [Curso de Introdução a Linguagem Go](https://github.com/MrS4w/courses/tree/master/YouTube/EuProgramador/Curso%20Go)
