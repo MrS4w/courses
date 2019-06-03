@@ -11,7 +11,7 @@
 #### :file_folder: [Rocketseat](https://github.com/MrS4w/courses/tree/master/Rocketseat): 
 * :open_file_folder: [Semana Omnistack](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack)
 * :open_file_folder: [Starter](https://github.com/MrS4w/courses/tree/master/Rocketseat/Starter)
-  * :open_file_folder: [Curso NodeJS](https://github.com/MrS4w/courses/tree/master/Rocketseat/Starter)
+  * :open_file_folder: [Curso NodeJS](https://github.com/MrS4w/courses/tree/master/Rocketseat/Starter/Curso%20NodeJS)
 
 #### :file_folder: [Udemy](https://github.com/MrS4w/courses/tree/master/Udemy):
 * :open_file_folder: [Curso Web Moderno](https://github.com/MrS4w/courses/tree/master/Udemy/Curso%20Web%20Moderno)
