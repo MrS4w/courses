@@ -16,7 +16,7 @@
 #### :file_folder: [Udemy](https://github.com/MrS4w/courses/tree/master/Udemy):
 * :open_file_folder: [Curso Web Moderno](https://github.com/MrS4w/courses/tree/master/Udemy/Curso%20Web%20Moderno)
 * :open_file_folder: [Desenvolvedor Multiplataforma Android/IOS com React e Redux](https://github.com/MrS4w/courses/tree/master/Udemy/Desenvolvedor%20Multiplataforma%20Android%20ou%20IOS%20com%20React%20e%20Redux)
-* :open_file_folder: [Sass placeholders - o jeito certo](https://github.com/MrS4w/courses/tree/master/Udemy/Sass%20placeholders%20-%20o%20jeito%20certo)
+* :open_file_folder: [SASS placeholders - o jeito certo](https://github.com/MrS4w/courses/tree/master/Udemy/Sass%20placeholders%20-%20o%20jeito%20certo)
 
 #### :file_folder: [YouTube](https://github.com/MrS4w/courses/tree/master/YouTube)
 * :open_file_folder: [Curso em Vídeo](https://github.com/MrS4w/courses/tree/master/YouTube/Curso%20em%20V%C3%ADdeo)
