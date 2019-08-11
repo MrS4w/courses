@@ -19,7 +19,5 @@
 * :open_file_folder: [SASS placeholders - o jeito certo](https://github.com/MrS4w/courses/tree/master/Udemy/Sass%20placeholders%20-%20o%20jeito%20certo)
 
 #### :file_folder: [YouTube](https://github.com/MrS4w/courses/tree/master/YouTube)
-* :open_file_folder: [Curso em Vídeo](https://github.com/MrS4w/courses/tree/master/YouTube/Curso%20em%20V%C3%ADdeo)
-  * :open_file_folder: [Curso de Python 3](https://github.com/MrS4w/courses/tree/master/YouTube/Curso%20em%20V%C3%ADdeo/Curso%20de%20Python%203)
 * :open_file_folder: [Loiane Groner](https://github.com/MrS4w/courses/tree/master/YouTube/Loiane%20Groner)
   * :open_file_folder: [Curso de Angular](https://github.com/MrS4w/courses/tree/master/YouTube/Loiane%20Groner/curso-angular2)
