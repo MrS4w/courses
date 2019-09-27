@@ -8,13 +8,13 @@
 * :open_file_folder: [Java - Dominando as Collections](https://github.com/MrS4w/courses/tree/master/Alura/Curso%20Java%20Collections)
 * :open_file_folder: [JavaScript Avançado - ES6, orientação a objetos e padrões de projeto](https://github.com/MrS4w/courses/tree/master/Alura/Curso%20ES6)
 
-#### :file_folder: [Rocketseat](https://github.com/MrS4w/courses/tree/master/Rocketseat): 
+#### :file_folder: [Rocketseat](https://github.com/MrS4w/courses/tree/master/Rocketseat)
 * :open_file_folder: [Semana Omnistack 5.0](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack%2005)
 * :open_file_folder: [Semana Omnistack 8.0](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack%2008)
 * :open_file_folder: [Starter](https://github.com/MrS4w/courses/tree/master/Rocketseat/Starter)
   * :open_file_folder: [Curso NodeJS](https://github.com/MrS4w/courses/tree/master/Rocketseat/Starter/Curso%20NodeJS)
 
-#### :file_folder: [Udemy](https://github.com/MrS4w/courses/tree/master/Udemy):
+#### :file_folder: [Udemy](https://github.com/MrS4w/courses/tree/master/Udemy)
 * :open_file_folder: [Curso Web Moderno](https://github.com/MrS4w/courses/tree/master/Udemy/Curso%20Web%20Moderno)
 * :open_file_folder: [Desenvolvedor Multiplataforma Android/IOS com React e Redux](https://github.com/MrS4w/courses/tree/master/Udemy/Desenvolvedor%20Multiplataforma%20Android%20ou%20IOS%20com%20React%20e%20Redux)
 * :open_file_folder: [SASS placeholders - o jeito certo](https://github.com/MrS4w/courses/tree/master/Udemy/Sass%20placeholders%20-%20o%20jeito%20certo)
