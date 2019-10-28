@@ -1,12 +1,14 @@
-# Courses :books: :man_technologist:
-
-### As I usually do many online courses I decided to put everything organized in a single repository.
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MrS4w/courses?color=%2304D361">
   <a href="https://github.com/MrS4w/courses/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/MrS4w/courses?style=social">
   </a>
 </p>
+
+# Courses :books: :man_technologist:
+
+### As I usually do many online courses I decided to put everything organized in a single repository.
+
 
 ## Content:
 
