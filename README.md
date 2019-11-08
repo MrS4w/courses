@@ -31,3 +31,6 @@
 #### :file_folder: [YouTube](https://github.com/MrS4w/courses/tree/master/YouTube)
 * :open_file_folder: [Loiane Groner](https://github.com/MrS4w/courses/tree/master/YouTube/Loiane%20Groner)
   * :open_file_folder: [Curso de Angular](https://github.com/MrS4w/courses/tree/master/YouTube/Loiane%20Groner/curso-angular2)
+
+* :open_file_folder: [Rocketseat](https://github.com/MrS4w/courses/tree/master/YouTube/Rocketseat)
+  * :open_file_folder: [TypeScript com NodeJS do jeito certo!](https://github.com/MrS4w/courses/tree/master/YouTube/Rocketseat/tsnode)
