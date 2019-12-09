@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Alura/Curso ES6/server/package.json",
+        "Rocketseat/Semana OmniStack 05/backend/package.json",
+        "Rocketseat/Semana OmniStack 05/frontend/package.json",
+        "Rocketseat/Semana OmniStack 08/backend/package.json",
+        "Rocketseat/Starter/Curso NodeJS/node-api/package.json",
+        "Udemy/Curso Web Moderno/ajax/package.json",
+        "Udemy/Curso Web Moderno/html/exercicios/form/package.json",
+        "Udemy/Curso Web Moderno/node/funcionarios/package.json",
+        "Udemy/Curso Web Moderno/node/projeto/package.json",
+        "Udemy/Desenvolvedor Multiplataforma Android ou IOS com React e Redux/app1/package.json",
+        "Udemy/Desenvolvedor Multiplataforma Android ou IOS com React e Redux/app2/package.json",
+        "YouTube/Loiane Groner/curso-angular2/data-binding/package.json",
+        "YouTube/Loiane Groner/curso-angular2/diretivas/package.json",
+        "YouTube/Loiane Groner/curso-angular2/primeiro-projeto/package.json",
+        "YouTube/Loiane Groner/curso-angular2/servicos/package.json",
+        "YouTube/Rocketseat/tsnode/package.json"
+      ]
+    }
+  }
+}
