@@ -4,12 +4,12 @@
     "main": "index.js",
     "dependencies": {
         "cors": "^2.8.5",
-        "express": "^4.16.4",
+        "express": "4.17.1",
         "mongoose": "^5.4.17",
         "socket.io": "^2.2.0"
     },
     "devDependencies": {
-        "nodemon": "^1.18.10"
+        "nodemon": "^2.0.1"
     },
     "scripts": {
         "start": "nodemon src/index.js",
