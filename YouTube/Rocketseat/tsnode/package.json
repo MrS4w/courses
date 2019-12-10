@@ -16,19 +16,19 @@
     "@types/mongoose": "^5.5.30",
     "@typescript-eslint/eslint-plugin": "^2.6.1",
     "@typescript-eslint/parser": "^2.6.1",
-    "eslint": "6.7.2",
+    "eslint": "^6.6.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "nodemon": "^2.0.1",
+    "nodemon": "^1.19.4",
     "sucrase": "^3.10.1",
-    "typescript": "~3.7.3"
+    "typescript": "^3.7.2"
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "4.17.1",
+    "express": "^4.17.1",
     "mongoose": "^5.7.8"
   }
 }
