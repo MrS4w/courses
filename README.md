@@ -7,7 +7,7 @@
 
 # Courses :books: :man_technologist:
 
-### As I usually do many online courses I decided to put the most part organized in a single repository. :smile:
+### As I usually do many online courses I decided to put the most part organized in a single repository. 
 
 
 ## Content:
