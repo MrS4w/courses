@@ -19,9 +19,9 @@
 
 #### :file_folder: [Rocketseat](https://github.com/MrS4w/courses/tree/master/Rocketseat)
 
-- :open_file_folder: [Semana Omnistack 5.0](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack%2005)
-- :open_file_folder: [Semana Omnistack 8.0](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack%2008)
-- :open_file_folder: [Semana Omnistack 10.0](https://github.com/MrS4w/courses/tree/master/Rocketseat/semanaomnistack10)
+- :open_file_folder: [Semana Omnistack 05](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack%2005)
+- :open_file_folder: [Semana Omnistack 08](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack%2008)
+- :open_file_folder: [Semana Omnistack 10](https://github.com/MrS4w/courses/tree/master/Rocketseat/semanaomnistack10)
 - :open_file_folder: [Starter](https://github.com/MrS4w/courses/tree/master/Rocketseat/Starter)
   - :open_file_folder: [Curso NodeJS](https://github.com/MrS4w/courses/tree/master/Rocketseat/Starter/Curso%20NodeJS)
 
