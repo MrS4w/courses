@@ -19,6 +19,7 @@
 
 #### :file_folder: [Rocketseat](https://github.com/MrS4w/courses/tree/master/Rocketseat)
 
+- :open_file_folder: [Next Level Week 02](https://github.com/MrS4w/courses/tree/master/Rocketseat/NLW02)
 - :open_file_folder: [Semana Omnistack 05](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack%2005)
 - :open_file_folder: [Semana Omnistack 08](https://github.com/MrS4w/courses/tree/master/Rocketseat/Semana%20OmniStack%2008)
 - :open_file_folder: [Semana Omnistack 10](https://github.com/MrS4w/courses/tree/master/Rocketseat/semanaomnistack10)
