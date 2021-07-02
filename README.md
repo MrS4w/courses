@@ -33,6 +33,7 @@
 - :open_file_folder: [Desenvolvedor Multiplataforma Android/IOS com React e Redux](https://github.com/MrS4w/courses/tree/master/Udemy/Desenvolvedor%20Multiplataforma%20Android%20ou%20IOS%20com%20React%20e%20Redux)
 - :open_file_folder: [Entendendo TypeScript](https://github.com/MrS4w/curso-TS)
 - :open_file_folder: [SASS placeholders - o jeito certo](https://github.com/MrS4w/courses/tree/master/Udemy/Sass%20placeholders%20-%20o%20jeito%20certo)
+- :open_file_folder: [The Modern Angular Bootcamp](https://github.com/MrS4w/angular-bootcamp)
 
 #### :file_folder: [YouTube](https://github.com/MrS4w/courses/tree/master/YouTube)
 
